@@ -1,0 +1,330 @@
+{
+  "brand_info": {
+    "brand": "Sapphire",
+    "store_name": "Sapphire Online",
+    "website": "https://pk.sapphireonline.pk/",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "description": "SAPPHIRE's readymade suit designs are available in various styles, colours, cuts, and price points to cater to every woman's personal preference. Celebrating exquisite craftsmanship, artisanal embroideries, and thoughtful designs."
+  },
+  "categories": {
+    "Ready to Wear": {
+      "description": "Pre-stitched garments ready to wear",
+      "subcategories": [
+        "Shirts",
+        "Dupattas",
+        "Bottoms",
+        "Matching Separates",
+        "Outfits"
+      ]
+    },
+    "Unstitched": {
+      "description": "Fabric pieces for custom tailoring",
+      "subcategories": [
+        "1 Piece",
+        "2 Piece",
+        "3 Piece"
+      ]
+    },
+    "WEST": {
+      "description": "Western wear collection",
+      "subcategories": [
+        "Dresses",
+        "Tops",
+        "Bottoms",
+        "Co-ord Sets"
+      ]
+    },
+    "Sleepwear": {
+      "description": "Comfortable nightwear and loungewear",
+      "subcategories": [
+        "Pajama Sets",
+        "Sleep Shirts",
+        "Night Suits"
+      ]
+    },
+    "Modest Wear": {
+      "description": "Modest fashion with full coverage",
+      "subcategories": [
+        "Abayas",
+        "Hijabs",
+        "Long Shirts",
+        "Wide Leg Pants"
+      ]
+    }
+  },
+  "fabrics": {
+    "Cotton": {
+      "description": "Lightweight, breathable, and ideal for all-day freshness",
+      "care": "Machine washable",
+      "season": "All seasons"
+    },
+    "Lawn": {
+      "description": "Smooth texture and airy feel, perfect for warm weather",
+      "care": "Gentle machine wash",
+      "season": "Summer"
+    },
+    "Dobby": {
+      "description": "Textured weave with subtle patterns",
+      "care": "Machine wash cold",
+      "season": "Summer"
+    },
+    "Viscose": {
+      "description": "Soft, flowing fabric with silk-like feel",
+      "care": "Hand wash recommended",
+      "season": "All seasons"
+    },
+    "Arabic Lawn": {
+      "description": "Premium lawn fabric with traditional appeal",
+      "care": "Gentle wash",
+      "season": "Summer"
+    }
+  },
+  "silhouettes": {
+    "Short Kurti": "Traditional shalwar kameez style with above-knee length",
+    "A-Line Kurta": "Gradual flare for a flowy look, paired with various bottoms",
+    "Straight Kameez": "Slim fit shirt paired with wide-leg trousers",
+    "Long Frock": "Traditional pishwas or angrakha silhouettes",
+    "Kaftan": "Loose-fitting, flowy garment in luxurious fabric",
+    "A-Line Shirt": "Fitted at top, gradually flares out",
+    "Button Down Shirt": "Classic shirt with button closure",
+    "Straight Shirt": "Straight cut, fitted silhouette"
+  },
+  "products": [
+    {
+      "id": "RTW001",
+      "title": "Printed Dobby Shirt",
+      "price": "Rs.2,990.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Dobby",
+      "pattern": "Printed",
+      "silhouette": "A-Line Shirt",
+      "description": "Women's RTW Dobby Multi Printed A-Line Shirt from Summer '25 collection",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V184_999.html",
+      "image_url": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw5b471f8b/images/July25/23rdJuly25/3PCDFW25V184_999_2.JPG",
+      "colors": [
+        "Multi"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "care_instructions": "Machine wash cold, do not bleach, tumble dry low",
+      "features": [
+        "Breathable fabric",
+        "Comfortable fit",
+        "Versatile styling"
+      ],
+      "fabric_info": {
+        "description": "Textured weave with subtle patterns",
+        "care": "Machine wash cold",
+        "season": "Summer"
+      },
+      "silhouette_info": "Fitted at top, gradually flares out"
+    },
+    {
+      "id": "RTW002",
+      "title": "Solid Dobby Shirt",
+      "price": "Rs.4,990.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Dobby",
+      "pattern": "Solid",
+      "silhouette": "Button Down Shirt",
+      "description": "Women's RTW Dobby Mustard Solid Button Down Shirt from Summer '25 collection",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/2STSDW25V159_999.html",
+      "image_url": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dwfc0e8c69/images/July25/23rdJuly25/2STSDW25V159_999_2.JPG",
+      "colors": [
+        "Mustard"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "care_instructions": "Machine wash cold, do not bleach, tumble dry low",
+      "features": [
+        "Button closure",
+        "Collar design",
+        "Professional look"
+      ],
+      "fabric_info": {
+        "description": "Textured weave with subtle patterns",
+        "care": "Machine wash cold",
+        "season": "Summer"
+      },
+      "silhouette_info": "Classic shirt with button closure"
+    },
+    {
+      "id": "RTW003",
+      "title": "Printed Arabic Lawn Shirt",
+      "price": "Rs.2,990.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Arabic Lawn",
+      "pattern": "Printed",
+      "silhouette": "Straight Shirt",
+      "description": "Women's RTW Arabic Lawn Off White Printed Straight Shirt from Summer '25 collection",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V189_999.html",
+      "image_url": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw60b517b7/images/July25/23rdJuly25/3PCDFW25V189_999_2.JPG",
+      "colors": [
+        "Off White"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "care_instructions": "Machine wash cold, gentle cycle",
+      "features": [
+        "Lightweight fabric",
+        "Breathable",
+        "Summer appropriate"
+      ],
+      "fabric_info": {
+        "description": "Premium lawn fabric with traditional appeal",
+        "care": "Gentle wash",
+        "season": "Summer"
+      },
+      "silhouette_info": "Straight cut, fitted silhouette"
+    },
+    {
+      "id": "RTW004",
+      "title": "Embroidered Lawn Viscose Shirt",
+      "price": "Rs.3,990.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Lawn Viscose",
+      "pattern": "Embroidered",
+      "silhouette": "A-Line Shirt",
+      "description": "Women's RTW Lawn Pink Embroidered A-Line Shirt from Summer '25 collection",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PDFW25V1144_999.html",
+      "image_url": "https://pk.sapphireonline.pk/dw/image/v2/BKSB_PRD/on/demandware.static/-/Sites-sapphire-master-catalog/default/dw92a6b92b/images/July25/23rdJuly25/3PDFW25V1144_999_2.JPG",
+      "colors": [
+        "Pink"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "care_instructions": "Hand wash recommended for embroidery",
+      "features": [
+        "Intricate embroidery",
+        "Feminine design",
+        "Premium finish"
+      ],
+      "silhouette_info": "Fitted at top, gradually flares out"
+    },
+    {
+      "id": "RTW005",
+      "title": "Printed Lawn Shirt",
+      "price": "Rs.2,490.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Lawn",
+      "pattern": "Printed",
+      "silhouette": "Straight Shirt",
+      "fabric_info": {
+        "description": "Smooth texture and airy feel, perfect for warm weather",
+        "care": "Gentle machine wash",
+        "season": "Summer"
+      },
+      "silhouette_info": "Straight cut, fitted silhouette"
+    },
+    {
+      "id": "RTW006",
+      "title": "Embroidered Cotton Shirt",
+      "price": "Rs.3,290.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Cotton",
+      "pattern": "Embroidered",
+      "silhouette": "A-Line Shirt",
+      "fabric_info": {
+        "description": "Lightweight, breathable, and ideal for all-day freshness",
+        "care": "Machine washable",
+        "season": "All seasons"
+      },
+      "silhouette_info": "Fitted at top, gradually flares out"
+    },
+    {
+      "id": "RTW007",
+      "title": "Solid Viscose Shirt",
+      "price": "Rs.5,990.00",
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "fabric": "Viscose",
+      "pattern": "Solid",
+      "silhouette": "Long Frock",
+      "fabric_info": {
+        "description": "Soft, flowing fabric with silk-like feel",
+        "care": "Hand wash recommended",
+        "season": "All seasons"
+      },
+      "silhouette_info": "Traditional pishwas or angrakha silhouettes"
+    }
+  ],
+  "total_products": 7,
+  "price_range": {
+    "min": "Rs.2,490.00",
+    "max": "Rs.5,990.00"
+  },
+  "colors_available": [
+    "Multi",
+    "Mustard",
+    "Off White",
+    "Pink",
+    "Black",
+    "Blue",
+    "Green",
+    "Beige",
+    "Brown",
+    "Grey",
+    "Orange",
+    "Purple",
+    "Red",
+    "White",
+    "Yellow"
+  ],
+  "sizes_available": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "collections": [
+    "RTW Summer '25",
+    "Chikankari",
+    "Indigo",
+    "Daily",
+    "Linen WEST",
+    "Summer Basics WEST",
+    "Modest Wear"
+  ]
+}

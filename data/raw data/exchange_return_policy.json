@@ -1,0 +1,36 @@
+[
+  {
+    "policy_type": "return",
+    "title": "Return Policy",
+    "content": "Sapphire offers a 7-day return policy for all products. Items must be in original condition with tags attached. Return shipping costs are borne by the customer unless the item is defective.",
+    "details": [
+      "Returns accepted within 7 days of delivery",
+      "Items must be unworn and in original packaging",
+      "Original receipt or order confirmation required",
+      "Refund processed within 5-7 business days"
+    ]
+  },
+  {
+    "policy_type": "exchange",
+    "title": "Exchange Policy", 
+    "content": "Exchanges are available for size and color changes within 7 days of purchase. The item must be in original condition with all tags attached.",
+    "details": [
+      "Exchanges allowed within 7 days",
+      "Size and color exchanges available",
+      "Items must be in original condition",
+      "One exchange per item allowed"
+    ]
+  },
+  {
+    "policy_type": "shipping",
+    "title": "Shipping Policy",
+    "content": "Sapphire offers nationwide shipping across Pakistan. Standard delivery takes 3-5 business days. Express delivery available in major cities.",
+    "details": [
+      "Standard shipping: 3-5 business days",
+      "Express shipping: 1-2 business days (major cities)",
+      "Free shipping on orders above PKR 3,000",
+      "Cash on delivery available"
+    ]
+  }
+]
+

@@ -1,0 +1,1363 @@
+[
+  {
+    "chunk_id": "b109fd41-f001-46c1-9a2f-0e4dfc1f40d9",
+    "chunk_type": "product_overview",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 - New Arrivals | Description: Women's RTW Dobby Pink Printed A-Line Shirt from Summer '25 collection featuring intricate dobby weave with vibrant prints. | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25 - New Arrivals",
+      "badge": "New In",
+      "price_numeric": 2990
+    }
+  },
+  {
+    "chunk_id": "b3eea24e-dbb7-4a82-bce9-3a0eda3afaec",
+    "chunk_type": "product_details",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Fabric: Dobby | Pattern: Printed | Silhouette: A-Line Shirt | Available Colors: Pink, Multi | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Dobby",
+      "pattern": "Printed",
+      "silhouette": "A-Line Shirt",
+      "colors": [
+        "Pink",
+        "Multi"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "fbf28401-5521-4608-810e-e365388faf8d",
+    "chunk_type": "product_care",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Fabric: Dobby | Care Instructions: Machine wash cold, do not bleach, tumble dry low",
+    "metadata": {
+      "fabric": "Dobby",
+      "care_instructions": "Machine wash cold, do not bleach, tumble dry low"
+    }
+  },
+  {
+    "chunk_id": "9adffe64-fb95-428a-a5b8-b0c2be1183fc",
+    "chunk_type": "product_availability",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Price: Rs.2,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V184_999.html",
+    "metadata": {
+      "price": "Rs.2,990.00",
+      "price_numeric": 2990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V184_999.html"
+    }
+  },
+  {
+    "chunk_id": "18a19078-a27f-443c-b0e9-0b271e2e9156",
+    "chunk_type": "product_overview",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 - New Arrivals | Description: Women's RTW Dobby Mustard Solid Button Down Shirt with contemporary styling and premium dobby fabric. | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25 - New Arrivals",
+      "badge": "New In",
+      "price_numeric": 4990
+    }
+  },
+  {
+    "chunk_id": "40c0c5e5-5441-467f-806b-905fcb1dffb6",
+    "chunk_type": "product_details",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Fabric: Dobby | Pattern: Solid | Silhouette: Button Down Shirt | Available Colors: Mustard, Green | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Dobby",
+      "pattern": "Solid",
+      "silhouette": "Button Down Shirt",
+      "colors": [
+        "Mustard",
+        "Green"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "39dd5dae-28e0-466e-8243-c42237117512",
+    "chunk_type": "product_care",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Fabric: Dobby | Care Instructions: Machine wash cold, iron on medium heat",
+    "metadata": {
+      "fabric": "Dobby",
+      "care_instructions": "Machine wash cold, iron on medium heat"
+    }
+  },
+  {
+    "chunk_id": "9901976b-d96a-4a9a-b31b-9a6a9b9c639f",
+    "chunk_type": "product_availability",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Price: Rs.4,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/2STSDW25V159_999.html",
+    "metadata": {
+      "price": "Rs.4,990.00",
+      "price_numeric": 4990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/2STSDW25V159_999.html"
+    }
+  },
+  {
+    "chunk_id": "ac26f39a-b0bc-47df-8aa7-3c771e3eaec9",
+    "chunk_type": "product_overview",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 - New Arrivals | Description: Women's RTW Arabic Lawn Off White Printed Straight Shirt featuring traditional Arabic lawn fabric with modern prints. | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25 - New Arrivals",
+      "badge": "New In",
+      "price_numeric": 2990
+    }
+  },
+  {
+    "chunk_id": "cdc0cc03-0c15-4924-b940-65daf46265d4",
+    "chunk_type": "product_details",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Fabric: Arabic Lawn | Pattern: Printed | Silhouette: Straight Shirt | Available Colors: Off White, Multi | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Arabic Lawn",
+      "pattern": "Printed",
+      "silhouette": "Straight Shirt",
+      "colors": [
+        "Off White",
+        "Multi"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "f7ace765-3ad3-404c-ad83-58a1c11bebbf",
+    "chunk_type": "product_care",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Fabric: Arabic Lawn | Care Instructions: Hand wash recommended, dry in shade",
+    "metadata": {
+      "fabric": "Arabic Lawn",
+      "care_instructions": "Hand wash recommended, dry in shade"
+    }
+  },
+  {
+    "chunk_id": "559cc40f-9724-4e36-a2f1-f92d684d33c5",
+    "chunk_type": "product_availability",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Price: Rs.2,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V189_999.html",
+    "metadata": {
+      "price": "Rs.2,990.00",
+      "price_numeric": 2990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V189_999.html"
+    }
+  },
+  {
+    "chunk_id": "80403030-4682-4b7d-bb10-43c6f4834128",
+    "chunk_type": "product_overview",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 - New Arrivals | Description: Women's RTW Lawn Pink Embroidered A-Line Shirt with intricate embroidery work on premium lawn viscose fabric. | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25 - New Arrivals",
+      "badge": "New In",
+      "price_numeric": 3990
+    }
+  },
+  {
+    "chunk_id": "ddc215a9-e9b0-4a3a-99fb-8e128fbcf016",
+    "chunk_type": "product_details",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Fabric: Lawn Viscose | Pattern: Embroidered | Silhouette: A-Line Shirt | Available Colors: Pink, Purple, Green | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Lawn Viscose",
+      "pattern": "Embroidered",
+      "silhouette": "A-Line Shirt",
+      "colors": [
+        "Pink",
+        "Purple",
+        "Green"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "1de70ff5-590d-4f49-b7ba-19d8fb9b2139",
+    "chunk_type": "product_care",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Fabric: Lawn Viscose | Care Instructions: Dry clean recommended for embroidery preservation",
+    "metadata": {
+      "fabric": "Lawn Viscose",
+      "care_instructions": "Dry clean recommended for embroidery preservation"
+    }
+  },
+  {
+    "chunk_id": "3201e81e-50a9-4d3a-88a8-fb4cf2ced274",
+    "chunk_type": "product_availability",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Price: Rs.3,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PDFW25V1144_999.html",
+    "metadata": {
+      "price": "Rs.3,990.00",
+      "price_numeric": 3990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PDFW25V1144_999.html"
+    }
+  },
+  {
+    "chunk_id": "b2a17cd3-1006-47ef-aef5-b477bcad7778",
+    "chunk_type": "product_overview",
+    "product_id": "RTW005",
+    "title": "Chikankari Ready to Wear Set",
+    "content": "Product: Chikankari Ready to Wear Set | Category: Ready to Wear | Subcategory: Sets | Collection: Chikankari Collection | Description: Traditional Chikankari embroidered cotton kurta set featuring hand-stitched embroidery work. | Special Badge: Featured",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Sets",
+      "collection": "Chikankari Collection",
+      "badge": "Featured",
+      "price_numeric": 5990
+    }
+  },
+  {
+    "chunk_id": "f85e08ef-c9f2-4801-9fe2-1b75135dc4d1",
+    "chunk_type": "product_details",
+    "product_id": "RTW005",
+    "title": "Chikankari Ready to Wear Set",
+    "content": "Product: Chikankari Ready to Wear Set | Fabric: Cotton | Pattern: Chikankari Embroidery | Silhouette: Kurta Set | Available Colors: White, Cream | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Cotton",
+      "pattern": "Chikankari Embroidery",
+      "silhouette": "Kurta Set",
+      "colors": [
+        "White",
+        "Cream"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "64ad2a24-25f4-4d9d-a2d2-740cf3601ed2",
+    "chunk_type": "product_care",
+    "product_id": "RTW005",
+    "title": "Chikankari Ready to Wear Set",
+    "content": "Product: Chikankari Ready to Wear Set | Fabric: Cotton | Care Instructions: Hand wash with mild detergent, dry in shade",
+    "metadata": {
+      "fabric": "Cotton",
+      "care_instructions": "Hand wash with mild detergent, dry in shade"
+    }
+  },
+  {
+    "chunk_id": "6a31febe-3fea-4f63-91d1-1f5c80e4fe10",
+    "chunk_type": "product_availability",
+    "product_id": "RTW005",
+    "title": "Chikankari Ready to Wear Set",
+    "content": "Product: Chikankari Ready to Wear Set | Price: Rs.5,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/chikankari",
+    "metadata": {
+      "price": "Rs.5,990.00",
+      "price_numeric": 5990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/chikankari"
+    }
+  },
+  {
+    "chunk_id": "0f87c5ec-bb8b-41aa-944c-3f054f66cedb",
+    "chunk_type": "product_overview",
+    "product_id": "RTW006",
+    "title": "Indigo Ready to Wear Kurta",
+    "content": "Product: Indigo Ready to Wear Kurta | Category: Ready to Wear | Subcategory: Kurtas | Collection: Indigo Collection | Description: Contemporary indigo-dyed cotton kurta with traditional dyeing techniques and modern cut. | Special Badge: Trending",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Kurtas",
+      "collection": "Indigo Collection",
+      "badge": "Trending",
+      "price_numeric": 4490
+    }
+  },
+  {
+    "chunk_id": "6d97e0ab-7941-4cfb-8a61-41ff3357496d",
+    "chunk_type": "product_details",
+    "product_id": "RTW006",
+    "title": "Indigo Ready to Wear Kurta",
+    "content": "Product: Indigo Ready to Wear Kurta | Fabric: Cotton | Pattern: Indigo Dyed | Silhouette: Straight Kurta | Available Colors: Indigo Blue, Navy | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Cotton",
+      "pattern": "Indigo Dyed",
+      "silhouette": "Straight Kurta",
+      "colors": [
+        "Indigo Blue",
+        "Navy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "637386e8-6b45-42cd-aed9-37aa3b17dab1",
+    "chunk_type": "product_care",
+    "product_id": "RTW006",
+    "title": "Indigo Ready to Wear Kurta",
+    "content": "Product: Indigo Ready to Wear Kurta | Fabric: Cotton | Care Instructions: Wash separately to prevent color bleeding",
+    "metadata": {
+      "fabric": "Cotton",
+      "care_instructions": "Wash separately to prevent color bleeding"
+    }
+  },
+  {
+    "chunk_id": "45d65191-ac50-4a7b-9b0f-616f8bfd09f5",
+    "chunk_type": "product_availability",
+    "product_id": "RTW006",
+    "title": "Indigo Ready to Wear Kurta",
+    "content": "Product: Indigo Ready to Wear Kurta | Price: Rs.4,490.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/indigo",
+    "metadata": {
+      "price": "Rs.4,490.00",
+      "price_numeric": 4490,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/indigo"
+    }
+  },
+  {
+    "chunk_id": "e04bddf3-c046-4aac-9c8e-4dc0f5ec5832",
+    "chunk_type": "product_overview",
+    "product_id": "UNS001",
+    "title": "Daily Unstitched 3-Piece",
+    "content": "Product: Daily Unstitched 3-Piece | Category: Unstitched | Subcategory: 3-Piece | Collection: Daily Collection | Description: Daily wear unstitched 3-piece lawn suit with vibrant prints perfect for everyday styling. | Special Badge: Best Seller",
+    "metadata": {
+      "category": "Unstitched",
+      "subcategory": "3-Piece",
+      "collection": "Daily Collection",
+      "badge": "Best Seller",
+      "price_numeric": 3290
+    }
+  },
+  {
+    "chunk_id": "0cd720e4-8665-4cf6-8d3f-957dd94d0fa0",
+    "chunk_type": "product_details",
+    "product_id": "UNS001",
+    "title": "Daily Unstitched 3-Piece",
+    "content": "Product: Daily Unstitched 3-Piece | Fabric: Lawn | Pattern: Printed | Available Colors: Multi, Floral",
+    "metadata": {
+      "fabric": "Lawn",
+      "pattern": "Printed",
+      "silhouette": "",
+      "colors": [
+        "Multi",
+        "Floral"
+      ],
+      "sizes": []
+    }
+  },
+  {
+    "chunk_id": "a058df15-7574-487e-931c-aeaa27a694af",
+    "chunk_type": "product_care",
+    "product_id": "UNS001",
+    "title": "Daily Unstitched 3-Piece",
+    "content": "Product: Daily Unstitched 3-Piece | Fabric: Lawn | Care Instructions: Pre-wash fabric before stitching",
+    "metadata": {
+      "fabric": "Lawn",
+      "care_instructions": "Pre-wash fabric before stitching"
+    }
+  },
+  {
+    "chunk_id": "d79b37b5-afe2-47b8-a961-25304d6c533a",
+    "chunk_type": "product_availability",
+    "product_id": "UNS001",
+    "title": "Daily Unstitched 3-Piece",
+    "content": "Product: Daily Unstitched 3-Piece | Price: Rs.3,290.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/unstitched/daily",
+    "metadata": {
+      "price": "Rs.3,290.00",
+      "price_numeric": 3290,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/unstitched/daily"
+    }
+  },
+  {
+    "chunk_id": "363954c3-bdb1-43ca-a1eb-2f3229fbc003",
+    "chunk_type": "product_overview",
+    "product_id": "WEST001",
+    "title": "Linen WEST Shirt",
+    "content": "Product: Linen WEST Shirt | Category: WEST | Subcategory: Shirts | Collection: Linen Collection | Description: Premium linen shirt with relaxed fit perfect for casual and semi-formal occasions. | Special Badge: New Arrival",
+    "metadata": {
+      "category": "WEST",
+      "subcategory": "Shirts",
+      "collection": "Linen Collection",
+      "badge": "New Arrival",
+      "price_numeric": 3990
+    }
+  },
+  {
+    "chunk_id": "c5168f05-9a09-42b9-95a1-5d538121c18a",
+    "chunk_type": "product_details",
+    "product_id": "WEST001",
+    "title": "Linen WEST Shirt",
+    "content": "Product: Linen WEST Shirt | Fabric: Linen | Pattern: Solid | Silhouette: Relaxed Fit | Available Colors: Beige, White, Olive | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "silhouette": "Relaxed Fit",
+      "colors": [
+        "Beige",
+        "White",
+        "Olive"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "cc0bceb7-fcf2-42c1-88a4-8f17fe2a1683",
+    "chunk_type": "product_care",
+    "product_id": "WEST001",
+    "title": "Linen WEST Shirt",
+    "content": "Product: Linen WEST Shirt | Fabric: Linen | Care Instructions: Machine wash cold, iron while damp",
+    "metadata": {
+      "fabric": "Linen",
+      "care_instructions": "Machine wash cold, iron while damp"
+    }
+  },
+  {
+    "chunk_id": "d19785d0-8fe1-422e-b7fc-1452f54cafac",
+    "chunk_type": "product_availability",
+    "product_id": "WEST001",
+    "title": "Linen WEST Shirt",
+    "content": "Product: Linen WEST Shirt | Price: Rs.3,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/west/linen",
+    "metadata": {
+      "price": "Rs.3,990.00",
+      "price_numeric": 3990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/west/linen"
+    }
+  },
+  {
+    "chunk_id": "4b377403-43ac-4595-b114-74faea5106b8",
+    "chunk_type": "product_overview",
+    "product_id": "WEST002",
+    "title": "Summer Basics WEST Top",
+    "content": "Product: Summer Basics WEST Top | Category: WEST | Subcategory: Tops | Collection: Summer Basics | Description: Essential summer basic top in premium cotton blend with comfortable fitted silhouette. | Special Badge: Essential",
+    "metadata": {
+      "category": "WEST",
+      "subcategory": "Tops",
+      "collection": "Summer Basics",
+      "badge": "Essential",
+      "price_numeric": 2490
+    }
+  },
+  {
+    "chunk_id": "0720d1a0-260f-469e-9cb4-014e542d8894",
+    "chunk_type": "product_details",
+    "product_id": "WEST002",
+    "title": "Summer Basics WEST Top",
+    "content": "Product: Summer Basics WEST Top | Fabric: Cotton Blend | Pattern: Solid | Silhouette: Fitted | Available Colors: Black, White, Grey, Navy | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Cotton Blend",
+      "pattern": "Solid",
+      "silhouette": "Fitted",
+      "colors": [
+        "Black",
+        "White",
+        "Grey",
+        "Navy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "02274cdd-473b-4dea-8270-1b7155844aa8",
+    "chunk_type": "product_care",
+    "product_id": "WEST002",
+    "title": "Summer Basics WEST Top",
+    "content": "Product: Summer Basics WEST Top | Fabric: Cotton Blend | Care Instructions: Machine wash, tumble dry low",
+    "metadata": {
+      "fabric": "Cotton Blend",
+      "care_instructions": "Machine wash, tumble dry low"
+    }
+  },
+  {
+    "chunk_id": "a9030bd5-5af9-4371-8ba7-843556693fd8",
+    "chunk_type": "product_availability",
+    "product_id": "WEST002",
+    "title": "Summer Basics WEST Top",
+    "content": "Product: Summer Basics WEST Top | Price: Rs.2,490.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/west/basics",
+    "metadata": {
+      "price": "Rs.2,490.00",
+      "price_numeric": 2490,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/west/basics"
+    }
+  },
+  {
+    "chunk_id": "9492e1d7-beb6-4a00-8b91-575490228f58",
+    "chunk_type": "product_overview",
+    "product_id": "MW001",
+    "title": "Modest Wear Abaya",
+    "content": "Product: Modest Wear Abaya | Category: Modest Wear | Subcategory: Abayas | Collection: Modest Collection | Description: Elegant modest wear abaya in premium crepe fabric with contemporary A-line silhouette. | Special Badge: Premium",
+    "metadata": {
+      "category": "Modest Wear",
+      "subcategory": "Abayas",
+      "collection": "Modest Collection",
+      "badge": "Premium",
+      "price_numeric": 6990
+    }
+  },
+  {
+    "chunk_id": "6e211d16-7476-4892-9984-824b6eef3f7d",
+    "chunk_type": "product_details",
+    "product_id": "MW001",
+    "title": "Modest Wear Abaya",
+    "content": "Product: Modest Wear Abaya | Fabric: Crepe | Pattern: Solid | Silhouette: A-Line | Available Colors: Black, Navy, Charcoal | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Crepe",
+      "pattern": "Solid",
+      "silhouette": "A-Line",
+      "colors": [
+        "Black",
+        "Navy",
+        "Charcoal"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "b6a7f086-c0ce-4f86-9b16-32d141f3d1b4",
+    "chunk_type": "product_care",
+    "product_id": "MW001",
+    "title": "Modest Wear Abaya",
+    "content": "Product: Modest Wear Abaya | Fabric: Crepe | Care Instructions: Dry clean recommended",
+    "metadata": {
+      "fabric": "Crepe",
+      "care_instructions": "Dry clean recommended"
+    }
+  },
+  {
+    "chunk_id": "2664da19-6027-415c-b568-47497b5222de",
+    "chunk_type": "product_availability",
+    "product_id": "MW001",
+    "title": "Modest Wear Abaya",
+    "content": "Product: Modest Wear Abaya | Price: Rs.6,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/modest-wear/abayas",
+    "metadata": {
+      "price": "Rs.6,990.00",
+      "price_numeric": 6990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/modest-wear/abayas"
+    }
+  },
+  {
+    "chunk_id": "1e2400e0-e819-4cd4-a75c-213fb10cb02f",
+    "chunk_type": "product_overview",
+    "product_id": "SLP001",
+    "title": "Cotton Sleepwear Set",
+    "content": "Product: Cotton Sleepwear Set | Category: Sleepwear | Subcategory: Sets | Collection: Comfort Collection | Description: Comfortable cotton sleepwear set with soft prints perfect for a good night's sleep. | Special Badge: Comfort",
+    "metadata": {
+      "category": "Sleepwear",
+      "subcategory": "Sets",
+      "collection": "Comfort Collection",
+      "badge": "Comfort",
+      "price_numeric": 3490
+    }
+  },
+  {
+    "chunk_id": "ec24c049-94e8-43e4-83c1-696cbf212965",
+    "chunk_type": "product_details",
+    "product_id": "SLP001",
+    "title": "Cotton Sleepwear Set",
+    "content": "Product: Cotton Sleepwear Set | Fabric: Cotton | Pattern: Printed | Available Colors: Pink, Blue, Lavender | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Cotton",
+      "pattern": "Printed",
+      "silhouette": "",
+      "colors": [
+        "Pink",
+        "Blue",
+        "Lavender"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "6a7b8d01-e124-44d1-a50a-b0f727b78b55",
+    "chunk_type": "product_care",
+    "product_id": "SLP001",
+    "title": "Cotton Sleepwear Set",
+    "content": "Product: Cotton Sleepwear Set | Fabric: Cotton | Care Instructions: Machine wash warm, tumble dry low",
+    "metadata": {
+      "fabric": "Cotton",
+      "care_instructions": "Machine wash warm, tumble dry low"
+    }
+  },
+  {
+    "chunk_id": "dfbdb5b5-747b-4a05-804a-63a43e7156c6",
+    "chunk_type": "product_availability",
+    "product_id": "SLP001",
+    "title": "Cotton Sleepwear Set",
+    "content": "Product: Cotton Sleepwear Set | Price: Rs.3,490.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/sleepwear",
+    "metadata": {
+      "price": "Rs.3,490.00",
+      "price_numeric": 3490,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/sleepwear"
+    }
+  },
+  {
+    "chunk_id": "2a7564f4-bb62-4b6e-89af-57838d59a2bc",
+    "chunk_type": "product_overview",
+    "product_id": "MAN001",
+    "title": "Men's Kurta",
+    "content": "Product: Men's Kurta | Category: Man | Subcategory: Kurtas | Collection: Men's Collection | Description: Classic men's cotton kurta with regular fit perfect for formal and casual occasions. | Special Badge: Classic",
+    "metadata": {
+      "category": "Man",
+      "subcategory": "Kurtas",
+      "collection": "Men's Collection",
+      "badge": "Classic",
+      "price_numeric": 4990
+    }
+  },
+  {
+    "chunk_id": "7628a01c-1c2f-4ea2-9eb4-e16bbc2ac28e",
+    "chunk_type": "product_details",
+    "product_id": "MAN001",
+    "title": "Men's Kurta",
+    "content": "Product: Men's Kurta | Fabric: Cotton | Pattern: Solid | Silhouette: Regular Fit | Available Colors: White, Cream, Light Blue | Available Sizes: S, M, L, XL, XXL",
+    "metadata": {
+      "fabric": "Cotton",
+      "pattern": "Solid",
+      "silhouette": "Regular Fit",
+      "colors": [
+        "White",
+        "Cream",
+        "Light Blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "78fe7e11-00f4-4d5c-b8ed-4c6e5e07e161",
+    "chunk_type": "product_care",
+    "product_id": "MAN001",
+    "title": "Men's Kurta",
+    "content": "Product: Men's Kurta | Fabric: Cotton | Care Instructions: Machine wash cold, iron on medium heat",
+    "metadata": {
+      "fabric": "Cotton",
+      "care_instructions": "Machine wash cold, iron on medium heat"
+    }
+  },
+  {
+    "chunk_id": "ba2be91b-3607-49b9-933e-130b5175fbd0",
+    "chunk_type": "product_availability",
+    "product_id": "MAN001",
+    "title": "Men's Kurta",
+    "content": "Product: Men's Kurta | Price: Rs.4,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/man/kurtas",
+    "metadata": {
+      "price": "Rs.4,990.00",
+      "price_numeric": 4990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/man/kurtas"
+    }
+  },
+  {
+    "chunk_id": "e8fcdc2f-9c5e-419d-b0fc-5c46130a4d03",
+    "chunk_type": "product_overview",
+    "product_id": "MINI001",
+    "title": "Mini Me Dress",
+    "content": "Product: Mini Me Dress | Category: Mini Me | Subcategory: Dresses | Collection: Kids Collection | Description: Adorable kids' cotton dress with fun prints and comfortable A-line silhouette. | Special Badge: Adorable",
+    "metadata": {
+      "category": "Mini Me",
+      "subcategory": "Dresses",
+      "collection": "Kids Collection",
+      "badge": "Adorable",
+      "price_numeric": 2990
+    }
+  },
+  {
+    "chunk_id": "10ffb5d6-0d80-4834-97a2-8555a8cdf8c5",
+    "chunk_type": "product_details",
+    "product_id": "MINI001",
+    "title": "Mini Me Dress",
+    "content": "Product: Mini Me Dress | Fabric: Cotton | Pattern: Printed | Silhouette: A-Line | Available Colors: Pink, Yellow, Purple | Available Sizes: 2Y, 4Y, 6Y, 8Y, 10Y",
+    "metadata": {
+      "fabric": "Cotton",
+      "pattern": "Printed",
+      "silhouette": "A-Line",
+      "colors": [
+        "Pink",
+        "Yellow",
+        "Purple"
+      ],
+      "sizes": [
+        "2Y",
+        "4Y",
+        "6Y",
+        "8Y",
+        "10Y"
+      ]
+    }
+  },
+  {
+    "chunk_id": "a3b93abc-96ba-4968-8a5a-01f4eff523a7",
+    "chunk_type": "product_care",
+    "product_id": "MINI001",
+    "title": "Mini Me Dress",
+    "content": "Product: Mini Me Dress | Fabric: Cotton | Care Instructions: Machine wash cold, gentle cycle",
+    "metadata": {
+      "fabric": "Cotton",
+      "care_instructions": "Machine wash cold, gentle cycle"
+    }
+  },
+  {
+    "chunk_id": "0fd95005-daa6-406e-ae0a-0480f31fb670",
+    "chunk_type": "product_availability",
+    "product_id": "MINI001",
+    "title": "Mini Me Dress",
+    "content": "Product: Mini Me Dress | Price: Rs.2,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/mini-me/dresses",
+    "metadata": {
+      "price": "Rs.2,990.00",
+      "price_numeric": 2990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/mini-me/dresses"
+    }
+  },
+  {
+    "chunk_id": "9743e71c-4c4b-40bf-9ed8-8c1bf4eec102",
+    "chunk_type": "product_overview",
+    "product_id": "FRAG001",
+    "title": "Sapphire Signature Perfume",
+    "content": "Product: Sapphire Signature Perfume | Category: Fragrances | Subcategory: Perfumes | Collection: Signature Collection | Description: Signature fragrance with floral oriental notes perfect for special occasions. | Special Badge: Luxury",
+    "metadata": {
+      "category": "Fragrances",
+      "subcategory": "Perfumes",
+      "collection": "Signature Collection",
+      "badge": "Luxury",
+      "price_numeric": 8990
+    }
+  },
+  {
+    "chunk_id": "bc4d2c8b-42a6-414c-89da-06cd9da578e2",
+    "chunk_type": "product_details",
+    "product_id": "FRAG001",
+    "title": "Sapphire Signature Perfume",
+    "content": "Product: Sapphire Signature Perfume",
+    "metadata": {
+      "fabric": "",
+      "pattern": "",
+      "silhouette": "",
+      "colors": [],
+      "sizes": []
+    }
+  },
+  {
+    "chunk_id": "ce87eb5e-a03c-4a1f-aef2-95eb05a35558",
+    "chunk_type": "product_care",
+    "product_id": "FRAG001",
+    "title": "Sapphire Signature Perfume",
+    "content": "Product: Sapphire Signature Perfume | Care Instructions: Store in cool, dry place away from direct sunlight",
+    "metadata": {
+      "fabric": "",
+      "care_instructions": "Store in cool, dry place away from direct sunlight"
+    }
+  },
+  {
+    "chunk_id": "47e15257-aed7-4e79-ac15-d3b6e6f66e13",
+    "chunk_type": "product_availability",
+    "product_id": "FRAG001",
+    "title": "Sapphire Signature Perfume",
+    "content": "Product: Sapphire Signature Perfume | Price: Rs.8,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/fragrances/signature",
+    "metadata": {
+      "price": "Rs.8,990.00",
+      "price_numeric": 8990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/fragrances/signature"
+    }
+  },
+  {
+    "chunk_id": "c6841298-4cbe-4e89-8e23-c7867b0b3e12",
+    "chunk_type": "product_overview",
+    "product_id": "ACC001",
+    "title": "Embroidered Dupatta",
+    "content": "Product: Embroidered Dupatta | Category: Accessories | Subcategory: Dupattas | Collection: Accessories Collection | Description: Elegant embroidered chiffon dupatta with metallic thread work perfect for formal occasions. | Special Badge: Essential",
+    "metadata": {
+      "category": "Accessories",
+      "subcategory": "Dupattas",
+      "collection": "Accessories Collection",
+      "badge": "Essential",
+      "price_numeric": 1990
+    }
+  },
+  {
+    "chunk_id": "11a0b492-9a89-49b7-862c-564170a6ff90",
+    "chunk_type": "product_details",
+    "product_id": "ACC001",
+    "title": "Embroidered Dupatta",
+    "content": "Product: Embroidered Dupatta | Fabric: Chiffon | Pattern: Embroidered | Available Colors: Gold, Silver, Rose Gold",
+    "metadata": {
+      "fabric": "Chiffon",
+      "pattern": "Embroidered",
+      "silhouette": "",
+      "colors": [
+        "Gold",
+        "Silver",
+        "Rose Gold"
+      ],
+      "sizes": []
+    }
+  },
+  {
+    "chunk_id": "9e3f3059-7065-4aed-bdcb-28fa65461237",
+    "chunk_type": "product_care",
+    "product_id": "ACC001",
+    "title": "Embroidered Dupatta",
+    "content": "Product: Embroidered Dupatta | Fabric: Chiffon | Care Instructions: Dry clean only to preserve embroidery",
+    "metadata": {
+      "fabric": "Chiffon",
+      "care_instructions": "Dry clean only to preserve embroidery"
+    }
+  },
+  {
+    "chunk_id": "d0f8415f-1f63-44b0-85cd-bc3e0cba0559",
+    "chunk_type": "product_availability",
+    "product_id": "ACC001",
+    "title": "Embroidered Dupatta",
+    "content": "Product: Embroidered Dupatta | Price: Rs.1,990.00 | Availability: In Stock | Product URL: https://pk.sapphireonline.pk/collections/accessories/dupattas",
+    "metadata": {
+      "price": "Rs.1,990.00",
+      "price_numeric": 1990,
+      "availability": "In Stock",
+      "url": "https://pk.sapphireonline.pk/collections/accessories/dupattas"
+    }
+  },
+  {
+    "chunk_id": "dc6abc6b-d4d4-4e37-80d2-642990de1676",
+    "chunk_type": "product_overview",
+    "product_id": "RTW007",
+    "title": "Silk Formal Shirt",
+    "content": "Product: Silk Formal Shirt | Category: Ready to Wear | Subcategory: Formal | Collection: Silk Collection | Description: Luxurious pure silk formal shirt with tailored fit perfect for special occasions. | Special Badge: Luxury",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Formal",
+      "collection": "Silk Collection",
+      "badge": "Luxury",
+      "price_numeric": 7990
+    }
+  },
+  {
+    "chunk_id": "acebdbbd-1d3e-425f-85ec-c84a47800fd0",
+    "chunk_type": "product_details",
+    "product_id": "RTW007",
+    "title": "Silk Formal Shirt",
+    "content": "Product: Silk Formal Shirt | Fabric: Pure Silk | Pattern: Solid | Silhouette: Tailored Fit | Available Colors: Emerald, Sapphire, Ruby | Available Sizes: XS, S, M, L, XL",
+    "metadata": {
+      "fabric": "Pure Silk",
+      "pattern": "Solid",
+      "silhouette": "Tailored Fit",
+      "colors": [
+        "Emerald",
+        "Sapphire",
+        "Ruby"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "a43eea9c-8fdf-4545-b1bc-843240d56a8e",
+    "chunk_type": "product_care",
+    "product_id": "RTW007",
+    "title": "Silk Formal Shirt",
+    "content": "Product: Silk Formal Shirt | Fabric: Pure Silk | Care Instructions: Dry clean only",
+    "metadata": {
+      "fabric": "Pure Silk",
+      "care_instructions": "Dry clean only"
+    }
+  },
+  {
+    "chunk_id": "060db923-3b13-4e4a-8231-fee88b52a7e3",
+    "chunk_type": "product_availability",
+    "product_id": "RTW007",
+    "title": "Silk Formal Shirt",
+    "content": "Product: Silk Formal Shirt | Price: Rs.7,990.00 | Availability: Limited Stock | Product URL: https://pk.sapphireonline.pk/collections/formal/silk",
+    "metadata": {
+      "price": "Rs.7,990.00",
+      "price_numeric": 7990,
+      "availability": "Limited Stock",
+      "url": "https://pk.sapphireonline.pk/collections/formal/silk"
+    }
+  },
+  {
+    "chunk_id": "46a4aea9-1171-4dc4-ab71-282455efaeea",
+    "chunk_type": "product_overview",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Description: Women's RTW Dobby Multi Printed A-Line Shirt from Summer '25 collection | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "c69d13be-42e9-461c-a7f1-112052951282",
+    "chunk_type": "product_details",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Fabric: Dobby | Pattern: Printed | Silhouette: A-Line Shirt | Available Colors: Multi | Available Sizes: XS, S, M, L, XL | Features: Breathable fabric, Comfortable fit, Versatile styling | Fabric Description: Textured weave with subtle patterns | Best Season: Summer | Silhouette Details: Fitted at top, gradually flares out",
+    "metadata": {
+      "fabric": "Dobby",
+      "pattern": "Printed",
+      "silhouette": "A-Line Shirt",
+      "colors": [
+        "Multi"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "7a35c19e-2abe-4627-81b5-38e6c0c0190a",
+    "chunk_type": "product_care",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Fabric: Dobby | Care Instructions: Machine wash cold, do not bleach, tumble dry low | Fabric Care: Machine wash cold",
+    "metadata": {
+      "fabric": "Dobby",
+      "care_instructions": "Machine wash cold, do not bleach, tumble dry low"
+    }
+  },
+  {
+    "chunk_id": "13b77676-bd60-4c71-9432-394252c5f588",
+    "chunk_type": "product_availability",
+    "product_id": "RTW001",
+    "title": "Printed Dobby Shirt",
+    "content": "Product: Printed Dobby Shirt | Price: Rs.2,990.00 | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V184_999.html",
+    "metadata": {
+      "price": "Rs.2,990.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V184_999.html"
+    }
+  },
+  {
+    "chunk_id": "02693df4-cd93-419f-a50b-de3e35b64eed",
+    "chunk_type": "product_overview",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Description: Women's RTW Dobby Mustard Solid Button Down Shirt from Summer '25 collection | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "be472477-b596-4fbb-927d-3e521e1f5f42",
+    "chunk_type": "product_details",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Fabric: Dobby | Pattern: Solid | Silhouette: Button Down Shirt | Available Colors: Mustard | Available Sizes: XS, S, M, L, XL | Features: Button closure, Collar design, Professional look | Fabric Description: Textured weave with subtle patterns | Best Season: Summer | Silhouette Details: Classic shirt with button closure",
+    "metadata": {
+      "fabric": "Dobby",
+      "pattern": "Solid",
+      "silhouette": "Button Down Shirt",
+      "colors": [
+        "Mustard"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "14bb3e99-4a36-45c9-bf36-36d596092ba3",
+    "chunk_type": "product_care",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Fabric: Dobby | Care Instructions: Machine wash cold, do not bleach, tumble dry low | Fabric Care: Machine wash cold",
+    "metadata": {
+      "fabric": "Dobby",
+      "care_instructions": "Machine wash cold, do not bleach, tumble dry low"
+    }
+  },
+  {
+    "chunk_id": "5c5c37e7-6f47-452f-9b80-5078d663aec8",
+    "chunk_type": "product_availability",
+    "product_id": "RTW002",
+    "title": "Solid Dobby Shirt",
+    "content": "Product: Solid Dobby Shirt | Price: Rs.4,990.00 | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/2STSDW25V159_999.html",
+    "metadata": {
+      "price": "Rs.4,990.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/2STSDW25V159_999.html"
+    }
+  },
+  {
+    "chunk_id": "37b63244-8e2d-42c3-9565-3c49e9f6eb51",
+    "chunk_type": "product_overview",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Description: Women's RTW Arabic Lawn Off White Printed Straight Shirt from Summer '25 collection | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "24d4d4b4-593e-4df5-b73e-594be4207af3",
+    "chunk_type": "product_details",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Fabric: Arabic Lawn | Pattern: Printed | Silhouette: Straight Shirt | Available Colors: Off White | Available Sizes: XS, S, M, L, XL | Features: Lightweight fabric, Breathable, Summer appropriate | Fabric Description: Premium lawn fabric with traditional appeal | Best Season: Summer | Silhouette Details: Straight cut, fitted silhouette",
+    "metadata": {
+      "fabric": "Arabic Lawn",
+      "pattern": "Printed",
+      "silhouette": "Straight Shirt",
+      "colors": [
+        "Off White"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "25aeb9ba-11a3-42a3-87c1-eec5969cf041",
+    "chunk_type": "product_care",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Fabric: Arabic Lawn | Care Instructions: Machine wash cold, gentle cycle | Fabric Care: Gentle wash",
+    "metadata": {
+      "fabric": "Arabic Lawn",
+      "care_instructions": "Machine wash cold, gentle cycle"
+    }
+  },
+  {
+    "chunk_id": "8eff5bb5-ff68-40e5-b472-cfcbff1c3336",
+    "chunk_type": "product_availability",
+    "product_id": "RTW003",
+    "title": "Printed Arabic Lawn Shirt",
+    "content": "Product: Printed Arabic Lawn Shirt | Price: Rs.2,990.00 | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V189_999.html",
+    "metadata": {
+      "price": "Rs.2,990.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PCDFW25V189_999.html"
+    }
+  },
+  {
+    "chunk_id": "512e8feb-7bd1-4952-8150-29728eda275e",
+    "chunk_type": "product_overview",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Description: Women's RTW Lawn Pink Embroidered A-Line Shirt from Summer '25 collection | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "93c4dda4-b295-44ce-9729-278ee472c5ea",
+    "chunk_type": "product_details",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Fabric: Lawn Viscose | Pattern: Embroidered | Silhouette: A-Line Shirt | Available Colors: Pink | Available Sizes: XS, S, M, L, XL | Features: Intricate embroidery, Feminine design, Premium finish | Silhouette Details: Fitted at top, gradually flares out",
+    "metadata": {
+      "fabric": "Lawn Viscose",
+      "pattern": "Embroidered",
+      "silhouette": "A-Line Shirt",
+      "colors": [
+        "Pink"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  },
+  {
+    "chunk_id": "c62f0b38-e9e6-4a41-81f6-f913996164ee",
+    "chunk_type": "product_care",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Fabric: Lawn Viscose | Care Instructions: Hand wash recommended for embroidery",
+    "metadata": {
+      "fabric": "Lawn Viscose",
+      "care_instructions": "Hand wash recommended for embroidery"
+    }
+  },
+  {
+    "chunk_id": "960d0e63-2df5-4bd3-a8f4-55369b3cbe1d",
+    "chunk_type": "product_availability",
+    "product_id": "RTW004",
+    "title": "Embroidered Lawn Viscose Shirt",
+    "content": "Product: Embroidered Lawn Viscose Shirt | Price: Rs.3,990.00 | Product URL: https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PDFW25V1144_999.html",
+    "metadata": {
+      "price": "Rs.3,990.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": "https://pk.sapphireonline.pk/collections/rtw-shirts/products/3PDFW25V1144_999.html"
+    }
+  },
+  {
+    "chunk_id": "c2386f4f-040b-4ee0-b410-cca9916583c5",
+    "chunk_type": "product_overview",
+    "product_id": "RTW005",
+    "title": "Printed Lawn Shirt",
+    "content": "Product: Printed Lawn Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "216dc1fc-c295-4bc5-aa03-82776ebba69d",
+    "chunk_type": "product_details",
+    "product_id": "RTW005",
+    "title": "Printed Lawn Shirt",
+    "content": "Product: Printed Lawn Shirt | Fabric: Lawn | Pattern: Printed | Silhouette: Straight Shirt | Fabric Description: Smooth texture and airy feel, perfect for warm weather | Best Season: Summer | Silhouette Details: Straight cut, fitted silhouette",
+    "metadata": {
+      "fabric": "Lawn",
+      "pattern": "Printed",
+      "silhouette": "Straight Shirt",
+      "colors": [],
+      "sizes": []
+    }
+  },
+  {
+    "chunk_id": "2e345bc6-46b4-469c-8ce6-f5e214a45c36",
+    "chunk_type": "product_care",
+    "product_id": "RTW005",
+    "title": "Printed Lawn Shirt",
+    "content": "Product: Printed Lawn Shirt | Fabric: Lawn | Fabric Care: Gentle machine wash",
+    "metadata": {
+      "fabric": "Lawn",
+      "care_instructions": ""
+    }
+  },
+  {
+    "chunk_id": "43f156e7-c7e1-4459-be8d-b72af57492df",
+    "chunk_type": "product_availability",
+    "product_id": "RTW005",
+    "title": "Printed Lawn Shirt",
+    "content": "Product: Printed Lawn Shirt | Price: Rs.2,490.00",
+    "metadata": {
+      "price": "Rs.2,490.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": ""
+    }
+  },
+  {
+    "chunk_id": "97dadec1-716c-438a-98cb-0618c6b3c4e7",
+    "chunk_type": "product_overview",
+    "product_id": "RTW006",
+    "title": "Embroidered Cotton Shirt",
+    "content": "Product: Embroidered Cotton Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "31e03f44-11df-4b98-8b01-aad893badaf6",
+    "chunk_type": "product_details",
+    "product_id": "RTW006",
+    "title": "Embroidered Cotton Shirt",
+    "content": "Product: Embroidered Cotton Shirt | Fabric: Cotton | Pattern: Embroidered | Silhouette: A-Line Shirt | Fabric Description: Lightweight, breathable, and ideal for all-day freshness | Best Season: All seasons | Silhouette Details: Fitted at top, gradually flares out",
+    "metadata": {
+      "fabric": "Cotton",
+      "pattern": "Embroidered",
+      "silhouette": "A-Line Shirt",
+      "colors": [],
+      "sizes": []
+    }
+  },
+  {
+    "chunk_id": "33bcd0f3-b24c-411a-892e-95a5c8630e48",
+    "chunk_type": "product_care",
+    "product_id": "RTW006",
+    "title": "Embroidered Cotton Shirt",
+    "content": "Product: Embroidered Cotton Shirt | Fabric: Cotton | Fabric Care: Machine washable",
+    "metadata": {
+      "fabric": "Cotton",
+      "care_instructions": ""
+    }
+  },
+  {
+    "chunk_id": "464bf9e3-06a0-4c8a-9713-81ec4bae02f3",
+    "chunk_type": "product_availability",
+    "product_id": "RTW006",
+    "title": "Embroidered Cotton Shirt",
+    "content": "Product: Embroidered Cotton Shirt | Price: Rs.3,290.00",
+    "metadata": {
+      "price": "Rs.3,290.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": ""
+    }
+  },
+  {
+    "chunk_id": "c228b4f1-6b53-4411-9827-6059e35716ea",
+    "chunk_type": "product_overview",
+    "product_id": "RTW007",
+    "title": "Solid Viscose Shirt",
+    "content": "Product: Solid Viscose Shirt | Category: Ready to Wear | Subcategory: Shirts | Collection: RTW Summer '25 | Special Badge: New In",
+    "metadata": {
+      "category": "Ready to Wear",
+      "subcategory": "Shirts",
+      "collection": "RTW Summer '25",
+      "badge": "New In",
+      "price_numeric": 0
+    }
+  },
+  {
+    "chunk_id": "e1e1be73-5116-446c-b1ed-f4909171b5fa",
+    "chunk_type": "product_details",
+    "product_id": "RTW007",
+    "title": "Solid Viscose Shirt",
+    "content": "Product: Solid Viscose Shirt | Fabric: Viscose | Pattern: Solid | Silhouette: Long Frock | Fabric Description: Soft, flowing fabric with silk-like feel | Best Season: All seasons | Silhouette Details: Traditional pishwas or angrakha silhouettes",
+    "metadata": {
+      "fabric": "Viscose",
+      "pattern": "Solid",
+      "silhouette": "Long Frock",
+      "colors": [],
+      "sizes": []
+    }
+  },
+  {
+    "chunk_id": "f7b8a415-34a3-48ac-be7d-9ef134e0d5f8",
+    "chunk_type": "product_care",
+    "product_id": "RTW007",
+    "title": "Solid Viscose Shirt",
+    "content": "Product: Solid Viscose Shirt | Fabric: Viscose | Fabric Care: Hand wash recommended",
+    "metadata": {
+      "fabric": "Viscose",
+      "care_instructions": ""
+    }
+  },
+  {
+    "chunk_id": "b2e775be-33fe-417e-b566-dba839a77e3f",
+    "chunk_type": "product_availability",
+    "product_id": "RTW007",
+    "title": "Solid Viscose Shirt",
+    "content": "Product: Solid Viscose Shirt | Price: Rs.5,990.00",
+    "metadata": {
+      "price": "Rs.5,990.00",
+      "price_numeric": 0,
+      "availability": "",
+      "url": ""
+    }
+  }
+]

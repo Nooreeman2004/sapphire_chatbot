@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": "0468cde7-4a87-452e-9005-1f125f69a0ba",
+    "chunk_type": "faq",
+    "content": "Question: What payment methods do you accept? | Answer: We accept cash on delivery, bank transfers, and online payments through JazzCash and EasyPaisa.",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash on delivery, bank transfers, and online payments through JazzCash and EasyPaisa.",
+    "metadata": {
+      "category": "payment",
+      "type": "faq"
+    }
+  },
+  {
+    "chunk_id": "0aefc838-5b38-4f89-ad2d-864a04fc6cd4",
+    "chunk_type": "faq",
+    "content": "Question: How long does delivery take? | Answer: Standard delivery takes 3-5 business days nationwide. Express delivery is available in major cities and takes 1-2 business days.",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3-5 business days nationwide. Express delivery is available in major cities and takes 1-2 business days.",
+    "metadata": {
+      "category": "shipping",
+      "type": "faq"
+    }
+  },
+  {
+    "chunk_id": "87ba7e91-b614-4612-b02e-d4e663f6476f",
+    "chunk_type": "faq",
+    "content": "Question: Can I track my order? | Answer: Yes, you will receive a tracking number via SMS and email once your order is dispatched. You can track your order on our website.",
+    "question": "Can I track my order?",
+    "answer": "Yes, you will receive a tracking number via SMS and email once your order is dispatched. You can track your order on our website.",
+    "metadata": {
+      "category": "shipping",
+      "type": "faq"
+    }
+  },
+  {
+    "chunk_id": "6b80a435-ff7e-4900-a5b0-994a5934d89e",
+    "chunk_type": "faq",
+    "content": "Question: What is your size guide? | Answer: Our size guide is available on each product page. We offer sizes from S to XXL. For unstitched fabric, measurements are provided in the product description.",
+    "question": "What is your size guide?",
+    "answer": "Our size guide is available on each product page. We offer sizes from S to XXL. For unstitched fabric, measurements are provided in the product description.",
+    "metadata": {
+      "category": "sizing",
+      "type": "faq"
+    }
+  },
+  {
+    "chunk_id": "65f74ae1-02b3-4c78-ac25-3812dea55348",
+    "chunk_type": "faq",
+    "content": "Question: Do you offer international shipping? | Answer: Currently, we only ship within Pakistan. International shipping is not available at this time.",
+    "question": "Do you offer international shipping?",
+    "answer": "Currently, we only ship within Pakistan. International shipping is not available at this time.",
+    "metadata": {
+      "category": "shipping",
+      "type": "faq"
+    }
+  }
+]

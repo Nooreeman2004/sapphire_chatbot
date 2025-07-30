@@ -1,0 +1,11 @@
+2025-07-28 13:09:04,585 - INFO - Configuration loaded from config/config.yaml
+2025-07-28 13:09:04,586 - INFO - Directory ensured: data/processed_chunks
+2025-07-28 13:09:04,586 - INFO - Directory ensured: vector_store
+2025-07-28 13:09:04,587 - INFO - Directory ensured: logs
+2025-07-28 13:09:04,587 - INFO - Starting RAG preprocessing pipeline...
+2025-07-28 13:09:04,587 - INFO - Cleaning previous processing artifacts...
+2025-07-28 13:09:04,590 - INFO - Cleared processed chunks directory
+2025-07-28 13:09:04,592 - INFO - Cleared vector store directory
+2025-07-28 13:09:04,592 - INFO - Starting document chunking and preprocessing...
+2025-07-28 13:09:04,602 - ERROR - Error in data processing: No module named 'src.data_processing.chunker'
+2025-07-28 13:09:04,603 - ERROR - Pipeline failed: No module named 'src.data_processing.chunker'

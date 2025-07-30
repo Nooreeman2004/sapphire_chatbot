@@ -1,0 +1,167 @@
+# Sapphire RAG Pipeline Configuration
+
+# Model Configuration
+model:
+  # Embedding model for vector store
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  
+  # LLM configuration for response generation
+  llm:
+    provider: "groq"
+    model_name: "llama-3.3-70b-versatile"
+    temperature: 0.1
+    max_tokens: 1000
+    timeout: 30
+
+# Vector Database Configuration
+vector_store:
+  type: "langchain"  # Options: "langchain", "faiss"
+  backend: "faiss"   # Options: "faiss", "chroma"
+  persist_directory: "./data/vector_store_langchain"
+  
+  # Search configuration
+  search:
+    default_k: 5
+    max_k: 20
+    similarity_threshold: 0.7
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 8000
+  reload: false
+  log_level: "info"
+  
+  # CORS settings
+  cors:
+    allow_origins: ["*"]
+    allow_credentials: true
+    allow_methods: ["*"]
+    allow_headers: ["*"]
+  
+  # Rate limiting (requests per minute)
+  rate_limit: 60
+
+# Data Processing Configuration
+data_processing:
+  # Chunking strategy
+  chunking:
+    product_chunk_types:
+      - "product_overview"
+      - "product_details"
+      - "product_care"
+      - "product_availability"
+    
+    web_content_chunk_size: 1000
+    overlap_size: 100
+  
+  # File paths
+  data_dir: "./data"
+  processed_chunks_dir: "./data/processed_chunks"
+  
+  # Supported file types
+  supported_formats:
+    - "json"
+
+# Conversation Management
+conversation:
+  max_history_length: 10
+  session_timeout_minutes: 60
+  auto_clear_inactive: true
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "./logs/sapphire_rag.log"
+  max_file_size: "10MB"
+  backup_count: 5
+
+# Frontend Configuration
+frontend:
+  title: "Sapphire Fashion Assistant"
+  description: "Your personal fashion consultant for Sapphire's latest collections"
+  theme:
+    primary_color: "#2196F3"
+    secondary_color: "#9C27B0"
+    background_color: "#FFFFFF"
+    text_color: "#2E4057"
+
+# Environment Variables (defaults)
+environment:
+  groq_api_key: "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"  # Set via GROQ_API_KEY environment variable
+  vector_store_path: "./data/vector_store_langchain"
+  host: "0.0.0.0"
+  port: 8000
+  reload: false
+
+# Advanced RAG Configuration
+rag:
+  # Retrieval settings
+  retrieval:
+    use_history_aware: true
+    use_contextual_compression: false
+    reranking_enabled: false
+    
+  # Response generation
+  generation:
+    system_prompt_template: |
+      You are a friendly, contextual, and professional customer service chatbot for Sapphire, a Pakistani fashion brand.
+      Use the following pieces of retrieved context to answer the question.
+      If you don't know the answer, just say that you don't know, don't try to make up an answer.
+      Keep the answer concise and relevant to Sapphire's products and policies.
+      Always maintain a helpful and polite tone.
+    
+    include_sources: false
+    max_context_length: 4000
+
+# Performance Configuration
+performance:
+  # Batch processing
+  batch_size: 32
+  max_concurrent_requests: 10
+  
+  # Caching
+  enable_response_cache: false
+  cache_ttl_seconds: 300
+  
+  # Memory management
+  max_memory_usage_mb: 2048
+  cleanup_interval_minutes: 30
+
+# Security Configuration
+security:
+  # API key validation
+  require_api_key: false
+  api_key_header: "X-API-Key"
+  
+  # Input validation
+  max_message_length: 1000
+  allowed_file_types: ["json"]
+  
+  # Rate limiting
+  enable_rate_limiting: true
+  requests_per_minute: 60
+
+# Monitoring and Analytics
+monitoring:
+  enable_metrics: true
+  metrics_endpoint: "/metrics"
+  
+  # Health checks
+  health_check_interval: 30
+  
+  # Analytics
+  track_conversations: true
+  track_response_times: true
+  track_error_rates: true
+
+# Development Configuration
+development:
+ debug_mode: false
+verbose_logging: true
+enable_hot_reload: false
+  
+  # Testing
+test_mode: false
+mock_llm_responses: false

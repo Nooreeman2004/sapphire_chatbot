@@ -1,0 +1,35 @@
+[
+  {
+    "chunk_id": "d66eba37-0b5f-4f87-9eab-0351e0bd0d85",
+    "chunk_type": "policy",
+    "policy_type": "return",
+    "title": "Return Policy",
+    "content": "Policy: Return Policy | Content: Sapphire offers a 7-day return policy for all products. Items must be in original condition with tags attached. Return shipping costs are borne by the customer unless the item is defective. | Details: Returns accepted within 7 days of delivery | Items must be unworn and in original packaging | Original receipt or order confirmation required | Refund processed within 5-7 business days",
+    "metadata": {
+      "policy_type": "return",
+      "type": "policy"
+    }
+  },
+  {
+    "chunk_id": "7d76261e-206b-463f-a2ab-db74b79be25b",
+    "chunk_type": "policy",
+    "policy_type": "exchange",
+    "title": "Exchange Policy",
+    "content": "Policy: Exchange Policy | Content: Exchanges are available for size and color changes within 7 days of purchase. The item must be in original condition with all tags attached. | Details: Exchanges allowed within 7 days | Size and color exchanges available | Items must be in original condition | One exchange per item allowed",
+    "metadata": {
+      "policy_type": "exchange",
+      "type": "policy"
+    }
+  },
+  {
+    "chunk_id": "0cd0bdd4-d737-4953-a2d0-7676a1a4c38d",
+    "chunk_type": "policy",
+    "policy_type": "shipping",
+    "title": "Shipping Policy",
+    "content": "Policy: Shipping Policy | Content: Sapphire offers nationwide shipping across Pakistan. Standard delivery takes 3-5 business days. Express delivery available in major cities. | Details: Standard shipping: 3-5 business days | Express shipping: 1-2 business days (major cities) | Free shipping on orders above PKR 3,000 | Cash on delivery available",
+    "metadata": {
+      "policy_type": "shipping",
+      "type": "policy"
+    }
+  }
+]
